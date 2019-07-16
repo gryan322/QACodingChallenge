@@ -1,3 +1,13 @@
+# Challenge 1 Instructions
+On a machine with Python 3 installed:
+- pip install pytest
+- pip install requests
+
+To run tests:
+- py.test test_web.py
+
+
+
 # QA Coding Challenge
 Coding and test plan challenges for QA candidates
 
